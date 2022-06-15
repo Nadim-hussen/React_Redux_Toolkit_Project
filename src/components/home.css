@@ -1,0 +1,19 @@
+.posts{
+    margin-top: 50px;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    place-items: center;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}
+.posts div{
+    background-color: #3474eb;
+   width: 100%;
+}
+.posts div p::before{
+    content: "~~";
+}
+.posts div p::after{
+    content: "~~";
+}

@@ -1,0 +1,21 @@
+form{
+    margin: 50px 0;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+form div{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+label{
+    font-size: 18px;
+    font-weight: bold;
+}
+textarea{
+    resize: none;
+}

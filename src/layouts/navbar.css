@@ -1,0 +1,19 @@
+.nav{
+    width: 100vw;
+    background-color: #4fa5eb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    padding: 8px 0;
+}
+.navbar_links{
+    text-decoration: none;
+    color: #230ca7;
+    font-size: 16px;
+    font-weight: bold;
+}
+.navbar_links:hover{
+    color: #be4931;
+    text-decoration: underline;
+}
