@@ -7,9 +7,6 @@ const Navbar = () => {
       <Link className="navbar_links" to="/">
         Home
       </Link>
-      <Link className="navbar_links" to="/edit_page">
-        Edit Page
-      </Link>
       <Link className="navbar_links" to="/add_page">Add Page</Link>
     </nav>
   );
