@@ -1,0 +1,13 @@
+.title{
+    text-transform: capitalize;
+    padding: 5px auto o auto;
+}
+.body{
+    padding: 5px auto o auto;
+    text-transform: capitalize;
+}
+.fetch{
+    background-color: rgb(47, 182, 216);
+    color: #fff;
+    margin-bottom: 20px;
+}
